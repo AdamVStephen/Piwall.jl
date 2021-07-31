@@ -1,0 +1,12 @@
+name = "Piwall"
+uuid = "af2ad3a4-5138-431e-94ac-e27a4ce61d57"
+authors = ["Adam Stephen (H0207W) <adam.v.stephen@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+PkgVersion = "eebad327-c553-4316-9ea0-9fa01ccd7688"
+
+[compat]
+DataFrames = "1.2.1"
+julia= "1.6.2"
